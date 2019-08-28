@@ -1,0 +1,32 @@
+{
+  "name": "conceal-with-prefix",
+  "version": "1.0.0",
+  "description": "conceal with prefix",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "jest",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nbili/conceal-with-prefix.git"
+  },
+  "keywords": [
+    "proxy",
+    "object",
+    "conceal",
+    "prefix"
+  ],
+  "author": "nbili",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nbili/conceal-with-prefix/issues"
+  },
+  "homepage": "https://github.com/nbili/conceal-with-prefix#readme",
+  "devDependencies": {
+    "@types/jest": "^24.0.18",
+    "jest": "^24.9.0",
+    "ts-jest": "^24.0.2",
+    "typescript": "^3.5.3"
+  }
+}
